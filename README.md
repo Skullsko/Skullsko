@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [Niek Goedemans!](https://github.com/IvanoBaptista/)
 <br>
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDAF5&center=true&width=435&lines=Software+developer;Front+end+Developer+%7C%7C+Data-Engineering;Ambitious+to+lean+more+skills" alt="Typing SVG" /></p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDAF5&center=true&width=435&lines=Software+developer;Front+end+Developer;Ambitious+to+lean+more+skills" alt="Typing SVG" /></p>
 
 <hr/>
 <div style="display:flex; flex-direction:row;">
