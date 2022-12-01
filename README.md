@@ -1,4 +1,4 @@
-## Hey 👋, I'm [Ivano Baptista!](https://github.com/IvanoBaptista/)
+## Hey 👋, I'm [Niek Goedemans!](https://github.com/IvanoBaptista/)
 <br>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&color=FFDAF5&center=true&width=435&lines=Game+developer;Back+end+Developer+%7C%7C+Data-Engineering;Ambitious+to+lean+more+skills" alt="Typing SVG" /></p>
@@ -23,7 +23,7 @@ I love to work with people around me and help them as much as I can!
 - 📝 <b>I have </b> a strong interest in Web Developement
 - 🌱 <b>Love</b> learning about Computers
 - 🌟 <b>Main languages</b>: Javascript and PHP
-- ✍️ <b> Hobby's</b> are playing games and coding
+- ✍️ <b> Hobby's</b> are going to the gym and sometimes playing games
 
 ###  <b>Favorite games</b>:
 - Valorant
@@ -35,7 +35,6 @@ I love to work with people around me and help them as much as I can!
 <summary><b>🔧 Things I use in a work/school week</b></summary>
 <br>
 <ul>
-  	    <li><b>OS:</b> MacOS Monterey 12.6.1</li>
 	    <li><b>Laptop: </b> ASUS VivoBook</li>
   	    <li><b>Browser: </b> Chrome</li>
 	    <li><b>Terminal: </b>The stock MacOS Terminal</li>
