@@ -6,7 +6,7 @@
 <hr/>
 <div style="display:flex; flex-direction:row;">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ivano-baptista-851005248/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/ivano-baptista-851005248](https://www.linkedin.com/in/niek-goedemans-a0235a253/)
 </div>
 
 ### Welcome to my github page! 
